@@ -24,6 +24,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🧑‍💻 I’m looking to collaborate on Frontend Projects.
 
+- ⚡ In my free time, I solve problems on Codewars and read tech articles.
+
 - 📫 How to reach me: **osamasayedmuhammad@gmail.com**
 
 <br/>
@@ -77,9 +79,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <div align='left'>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/osama-sayed-mohamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama sayed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/OsamaSayedMohamed99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama sayed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/osamaa.sayed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama sayed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osama-sayed-mohamed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama sayed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/OsamaSayedMohamed99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama sayed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/osamaa.sayed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama sayed" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/OsamaaSayed" target="_blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/codewars/codewars-icon-filled-256.png?v=1675595212775" alt="osama sayed" height="30"  /></a>
 </p>
 </div>
 
