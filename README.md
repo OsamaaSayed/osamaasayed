@@ -18,7 +18,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently studying at ITI (Information Technology Institute) Track Web & User Interface.
+- 🔭 I graduated from ITI (Information Technology Institute) Track Web & User Interface.
 
 - 🌱 I’m currently learning **React js**.
 
