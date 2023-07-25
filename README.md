@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&pause=1000&color=A5A5A5&width=435&lines=Heyy%2C+iam+Osama+Sayed..%F0%9F%91%8B;Frontend+Developer%F0%9F%A5%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=4000&pause=1000&color=A5A5A5&center=true&vCenter=true&width=435&lines=Heyy%2C+Iam+Osama..%F0%9F%91%8B%F0%9F%8F%BB;Frontend+Developer%F0%9F%A5%B7%F0%9F%8F%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -93,7 +93,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <div align = "center" > 
-  <img src = "https://user-images.githubusercontent.com/90098467/236217374-c6f1b5cb-402c-431f-b160-5fa82b128b45.jpg" />
+  <img width="300px" src = "https://user-images.githubusercontent.com/90098467/236217374-c6f1b5cb-402c-431f-b160-5fa82b128b45.jpg" />
 </div>
 
 ---
